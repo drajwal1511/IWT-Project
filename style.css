@@ -7,6 +7,11 @@
           height: 100%;
           width: 100%;
         }
+        .footer{
+          /* border: 1px solid red; */
+          position: absolute;
+          bottom: 0;
+        }
         .hero-image {
           background-image: url(https://wallpaperstock.net/wallpapers/thumbs1/41759hd.jpg);
           background-color: #cccccc;
